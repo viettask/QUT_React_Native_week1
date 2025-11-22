@@ -17,12 +17,16 @@ export default function App() {
   return (
 
     <View style={styles.container}>
+<<<<<<< HEAD
       <HeadlineText text="Photo Sharer" />
       <Image
         source={{ uri: 'https://reactnative.dev/docs/assets/p_cat2.png' }}
         style={{ width: 200, height: 200 }}
       />
       <BodyText text="To share a photo from your phone with a friend,just press the button below!" />
+=======
+      <Text>Hi Viet Nguyen</Text>
+>>>>>>> f3ea81a05e09149c9d804885d516b63294b038e7
       <StatusBar style="auto" />
     </View>
 
