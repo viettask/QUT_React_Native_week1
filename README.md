@@ -11,6 +11,7 @@ This is a simple React Native application that demonstrates the basic structure 
 - Feature 2
 - Feature 3
 - Feature 4
+- Feature 5
 
 ## Prerequisites
 
